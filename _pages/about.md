@@ -1,9 +1,7 @@
 ---
 
 title: "About Zoe Marshall"
-
-Zoe prides herself on her inquisitive nature and problem solving skills. She is a current engineering student at Vanderbilt and looking to continue research through a PhD following graduation or pursue a Research and Development Engineer position.
-
+subtitle: "Zoe prides herself on her inquisitive nature and problem solving skills. She is a current engineering student at Vanderbilt and looking to continue research through a PhD following graduation or pursue a Research and Development Engineer position."
 ---
 
 ## Education
