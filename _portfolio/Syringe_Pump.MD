@@ -1,9 +1,9 @@
 ---
 title: "Programmable Syringe Pump"
 excerpt: "Programmable Syringe Pump that can adapt to various flow rates and barrel size."
-#header:
+header:
 #  image: /assets/img/Cyber-Scooter-Banner.jpg
-#  teaser: /assets/img/Cyber-Scooter-TH.jpg
+  teaser: assets/img/syringe-pump-rendering.png
 gallery:
   - url: assets/img/syringe-pump-rendering.png
     image_path: assets/img/syringe-pump-rendering.png
