@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Zoe is a engineering student at Vanderbilt University interested in development novel technologies for Biomedical research and medical field usage. "
+excerpt: "Zoe is a engineering student at Vanderbilt University interested in developing novel technologies for Biomedical research and practical medical usage. "
 feature_row:
   - image_path: assets/img/syringe-pump-rendering.png
     alt: "Syringe Pump"
