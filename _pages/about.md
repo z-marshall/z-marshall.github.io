@@ -6,7 +6,7 @@ title: "About Zoe Marshall"
 
 ## Education
 
-* Vanderbilt University {(expected Spring 2025)}
+* Vanderbilt University (expected Spring 2025)
   * BE Biomedical Engineering
   * BS Mathematics
 
