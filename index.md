@@ -3,8 +3,8 @@ title: "Project Display"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  overlay_filter: "0.65"
+  overlay_image: assets/img/background picture 1.png
   actions:
     - label: "My Projects"
       url: "/portfolio/"
