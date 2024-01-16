@@ -19,8 +19,12 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 
 {% include gallery caption="Above is a rendered and real image of the pump, and a circuit diagram." %}
 
+## Fusion Model
+
+
 ## Materials
-# Off-the-Shelf Parts
+### Off-the-Shelf Parts
+
 | Quantity | Part name |
 | ------------ |--------------|
 | 1 | 250 mm lead screw with 2 mm pitch and 8 mm lead |
@@ -36,6 +40,11 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 | 1 | Panel Mount Latching Push Buttons |
 | 1 | Limit Switch |
 | 1 | RGB Common Cathode LED |
+
+### 3D printed Parts
+
+| Quantity | Part name |
+| ------------ |--------------|
 
 ## Code
 With all the aspects to this syringe pump, the code is what allows all of it to flow smoothly together. There are two switches and one LED indicator on the assembly, along with a motor whose flow rate and precision is determined by the code uploaded to the arduino. The code runs the pump once the start/stop button is pressed, and will stop when either the start/stop button is pressed again or when the syringe hits the second indicator on the barrel support to inform that the syringe is empty. When the syringe is paused (start/stop button is in the stop position), the LED indicator will shine yellow. When the pump is in motion, the LED indicator will shine green. When the barrel support switch is supressed (meaning that the barrel is empty), the LED will shine red.
