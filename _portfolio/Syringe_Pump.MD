@@ -45,13 +45,13 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 
 | Quantity | Part name |
 | ------------ |--------------|
-| 1 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/Front of barrel stabilizer.png] (Front of Barrel Stabilizer) |
-| 1 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/back of barrel stabilizer.png] (Back of Barrel Stabilizer) |
-| 2 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/breadboard fastener.png] (Breadboard Fastener) |
-| 1 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/carriage.png] (Carriage) |
-| 1 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/enclosure.png] (Enclosure) |
-| 1 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/lid.png] (Lid) |
-| 1 | [https://github.com/z-marshall/z-marshall.github.io/assets/drawings/motor mounting plate.png] (Motor Mounting Plate) |
+| 1 | [Front of Barrel Stabilizer] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/Front of barrel stabilizer.png)  |
+| 1 | [Back of Barrel Stabilizer] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/back of barrel stabilizer.png) |
+| 2 | [Breadboard Fastener] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/breadboard fastener.png)  |
+| 1 | [Carriage] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/carriage.png) |
+| 1 | [Enclosure] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/enclosure.png) |
+| 1 | [Lid] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/lid.png) |
+| 1 | [Motor Mounting Plate] (https://github.com/z-marshall/z-marshall.github.io/assets/drawings/motor mounting plate.png) |
 
 {% include gallery caption="Each part name has a link to their respective design drawing." %}
 
