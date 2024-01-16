@@ -19,7 +19,12 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 
 {% include gallery caption="Above is a rendered and real image of the pump, and a circuit diagram." %}
 
-## Fusion Model
+## Autodesk Fusion 360 Model
+#### (May take a couples seconds to load)
+<iframe src="https://myhub.autodesk360.com/ue2df3503/shares/public/SH56a43QTfd62c1cd96832754d64d89c2831?mode=embed" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>  
+
+
+## Operation Instructions 
 
 
 ## Materials
