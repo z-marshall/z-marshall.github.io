@@ -45,6 +45,15 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 
 | Quantity | Part name |
 | ------------ |--------------|
+| 1 | [assets/drawings/Front of barrel stabilizer.png] (Front of Barrel Stabilizer) |
+| 1 | [assets/drawings/back of barrel stabilizer.png] (Back of Barrel Stabilizer) |
+| 2 | [assets/drawings/breadboard fastener.png] (Breadboard Fastener) |
+| 1 | [assets/drawings/carriage.png] (Carriage) |
+| 1 | [assets/drawings/enclosure.png] (Enclosure) |
+| 1 | [assets/drawings/lid.png] (Lid) |
+| 1 | [aassets/drawings/motor mounting plate.png] (Motor Mounting Plate) |
+
+{% include gallery caption="Each part name has a link to their respective design drawing." %}
 
 ## Code
 With all the aspects to this syringe pump, the code is what allows all of it to flow smoothly together. There are two switches and one LED indicator on the assembly, along with a motor whose flow rate and precision is determined by the code uploaded to the arduino. The code runs the pump once the start/stop button is pressed, and will stop when either the start/stop button is pressed again or when the syringe hits the second indicator on the barrel support to inform that the syringe is empty. When the syringe is paused (start/stop button is in the stop position), the LED indicator will shine yellow. When the pump is in motion, the LED indicator will shine green. When the barrel support switch is supressed (meaning that the barrel is empty), the LED will shine red.
