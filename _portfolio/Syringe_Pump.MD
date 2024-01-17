@@ -22,9 +22,10 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 ## Autodesk Fusion 360 Model
 #### (May take a couples seconds to load)
 <iframe src="https://myhub.autodesk360.com/ue2df3503/shares/public/SH56a43QTfd62c1cd96832754d64d89c2831?mode=embed" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>  
-
+# Input my link from fusion in here
 
 ## Operation Instructions 
+The syringe pump is easy and intuitive to use. Once the Arduino is programmed with its respective flow rate for the operation, the syringe barrel flange is inserted into its respective slot (5mL syringe in the protruding slot closest to the end of the pump, 20 mL syringe in the other slot). The barrel should be pressed down fully into the slot and feel very secure. The carriage is then manually maneuvered (by hand turning the screw) such that the plunger fits in the cutout of the carriage. The motor is plugged in and checked to ensure the syringe is ready for use (the LED should be yellow at this time). The syringe pump can now be started by pressing the on button (the LED will turn green). The pump will dispense a uniform amount of liquid until the syringe is empty, at which point the kill switch will be hit and the pump will stop (the LED will turn red).  At that point, the pump can be turned off and unplugged, and the syringe removed.
 
 
 ## Materials
