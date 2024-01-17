@@ -21,6 +21,9 @@ Zoe has experience with a variety of industry standard softwares, tools, techniq
 * Soldering and Circuit Building
 * Electrical Impedence Testing (Network Anaylser)
 * Programming/Coding (Python, MatLab, & LabView)
+
+Skilled Learned through the Digital Fabrication Minor
+
 * Fused Filament Fabrication (FFF)
 
 ## Work Experience
