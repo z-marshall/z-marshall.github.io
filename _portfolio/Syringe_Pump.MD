@@ -23,6 +23,7 @@ Syringe Pumps are a useful tool when dispensing liquids, especially in regard to
 #### (May take a couples seconds to load)
 <iframe src="https://myhub.autodesk360.com/ue2df3503/shares/public/SH56a43QTfd62c1cd96832754d64d89c2831?mode=embed" width="600" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>  
 # Input my link from fusion in here
+% try
 
 ## Operation Instructions 
 The syringe pump is easy and intuitive to use. Once the Arduino is programmed with its respective flow rate for the operation, the syringe barrel flange is inserted into its respective slot (5mL syringe in the protruding slot closest to the end of the pump, 20 mL syringe in the other slot). The barrel should be pressed down fully into the slot and feel very secure. The carriage is then manually maneuvered (by hand turning the screw) such that the plunger fits in the cutout of the carriage. The motor is plugged in and checked to ensure the syringe is ready for use (the LED should be yellow at this time). The syringe pump can now be started by pressing the on button (the LED will turn green). The pump will dispense a uniform amount of liquid until the syringe is empty, at which point the kill switch will be hit and the pump will stop (the LED will turn red).  At that point, the pump can be turned off and unplugged, and the syringe removed.
@@ -58,7 +59,7 @@ The syringe pump is easy and intuitive to use. Once the Arduino is programmed wi
 | 1 | [Enclosure](https://github.com/z-marshall/z-marshall.github.io/blob/main/assets/drawings/enclosure.png) |
 | 1 | [Lid](https://github.com/z-marshall/z-marshall.github.io/blob/main/assets/drawings/lid.png) |
 | 1 | [Motor Mounting Plate](https://github.com/z-marshall/z-marshall.github.io/blob/main/assets/drawings/motor%20mounting%20plate.png) |
-
+##### Each part name has a link to their respective resign drawings on github
 
 ## Code
 With all the aspects to this syringe pump, the code is what allows all of it to flow smoothly together. There are two switches and one LED indicator on the assembly, along with a motor whose flow rate and precision is determined by the code uploaded to the arduino. The code runs the pump once the start/stop button is pressed, and will stop when either the start/stop button is pressed again or when the syringe hits the second indicator on the barrel support to inform that the syringe is empty. When the syringe is paused (start/stop button is in the stop position), the LED indicator will shine yellow. When the pump is in motion, the LED indicator will shine green. When the barrel support switch is supressed (meaning that the barrel is empty), the LED will shine red.
