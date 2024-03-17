@@ -18,7 +18,7 @@ gallery:
 #### Challenges of microfludics
   There are two primary challenges to creating a microfludic device. The first is due to the nature of these pieces being so small. Microfluid devices as easily broken and thus a proper care must be taken to ensure the dimensioned selected in the CAD model will be printable and viable for the device. Secondly, due to the narrowness of the pathways, the liquids often do not mix as they travel down the paths. With a standard straight path, these liquids are so thinned and in such close proximity that the laminar flow and surface tension to their own material and path keeps the liquids from mixing, even when traveling side by side. To get proper mixing, obstacles must be introduced to overcome the liquid's low Reynolds number that the chamber size and liquid properties are inducing.
 
-{% include gallery caption="Above are pictures of the device and the cast." %}
+{% include gallery caption="Above are pictures of the device and the mold." %}
 
 
 ### Description of the Geometry
