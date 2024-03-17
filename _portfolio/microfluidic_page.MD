@@ -45,6 +45,4 @@ gallery:
   The operation of a microfluidic device (once created) is quite easy. A programmable syringe pump was set up to push a small amount of liquid at a constant rate through the microfluidic. These syringes were connected to tubes that inserted into the posts, and two more tubes were inserted into the post on the opposite side to collect the liquid into a jar. The pump was then started, and could visibly see the liquid race through the device. It was difficult to tease out exactly where mixing was occurring, but mixing was evident by the color of the liquid in the exit tubes being a very mixed red-green color.
 
 
-[![assets/img/microfluidic_model_in_holder.jpeg](assets/img/microfluidic_model_in_holder.jpeg)](https://youtube.com/shorts/tdT8q8riBro?feature=share)
-
 [![microfluidic device video](https://github.com/z-marshall/z-marshall.github.io/blob/main/assets/img/microfluidic_model_in_holder.jpeg)](https://youtube.com/shorts/tdT8q8riBro?feature=share "microfluidic operating video")
