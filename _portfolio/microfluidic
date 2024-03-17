@@ -7,16 +7,15 @@ gallery:
   - url: assets/img/microfluidic_pic2.jpeg
     image_path: assets/img/microfluidic_pic2.jpeg
     alt: "picture of finished microfluidic device"
-  - url: assets/img/microfluidic_pic1.jpeg
-    image_path: assets/img/microfluidic_pic1.jpeg
-    alt: "picture of finished microfluidic device"
+  - url: assets/img/microfluidic_mold_and_device.jpeg
+    image_path: assets/img/microfluidic_mold_and_device.jpeg
+    alt: "picture of finished microfluidic device and mold"
   - url: assets/img/microfluidic_video.mov
     image_path: assets/img/microfluidic_video.mov
     alt: "video of microfluidic device operating"
 ---
 
-
-Syringe Pumps are a useful tool when dispensing liquids, especially in regard to accuracy when compared to a human hand. Their reliability and diversity have made them a staple in the medical industry, laboratories, and beyond. While basic applications can be done with a low-priced, one-speed pump with a specialized size syringe, pumps that can be adapted to various sizes and flow rates drastically increase in price when requiring these specifications. The goal of this design was to create an accurate, cost-effective, programmable pump that could effectively be introduced into a medical situation with ease. This includes adaptability to various sizes of syringe pumps and flow rates without the need for tools or alterations to the pump.
+Description!!!
 
 {% include gallery caption="Above are various pictures of the device and the cast, along with a video of the device operating." %}
 
