@@ -5,7 +5,7 @@ header:
   teaser: assets/img/microfluidic_pic2.mov
 gallery:
   - url: assets/img/microfluidic_pic2.jpeg
-    image_path:assets/img/microfluidic_pic2.jpeg
+    image_path: assets/img/microfluidic_pic2.jpeg
     alt: "picture of finished microfluidic device"
   - url: assets/img/microfluidic_pic1.jpeg
     image_path: assets/img/microfluidic_pic1.jpeg
