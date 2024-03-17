@@ -47,3 +47,4 @@ gallery:
 
 [![assets/img/microfluidic_model_in_holder.jpeg](assets/img/microfluidic_model_in_holder.jpeg)](https://youtube.com/shorts/tdT8q8riBro?feature=share)
 
+[![microfluidic device video](https://github.com/z-marshall/z-marshall.github.io/blob/main/assets/img/microfluidic_model_in_holder.jpeg)](https://youtube.com/shorts/tdT8q8riBro?feature=share "microfluidic operating video")
