@@ -1,19 +1,33 @@
 ---
-title: "MicroFluidic device"
-excerpt: "Designed a Resin Printed Microfluidic Mold to create a functioning microfluidic device."
+title: "Programmable Syringe Pump"
+excerpt: "Programmable Syringe Pump that can adapt to various flow rates and barrel size."
 header:
-  teaser: assets/img/microfluidic_pic2.mov
+  teaser: assets/img/syringe-pump-rendering.png
 gallery:
-  - url: assets/img/microfluidic_pic2.jpeg
-    image_path: assets/img/microfluidic_pic2.jpeg
-    alt: "picture of finished microfluidic device"
-  - url: assets/img/microfluidic_pic1.jpeg
-    image_path: assets/img/microfluidic_pic1.jpeg
-    alt: "picture of finished microfluidic device"
-  - url: assets/img/microfluidic_video.mov
-    image_path: assets/img/microfluidic_video.mov
-    alt: "video of microfluidic device operating"
----
+  - url: assets/img/syringe-pump-rendering.png
+    image_path: assets/img/syringe-pump-rendering.png
+    alt: "rendering of Syringe Pump"
+  - url: assets/img/syringe-pump-real-life.png
+    image_path: assets/img/syringe-pump-real-life.png
+    alt: "real image of syringe pump"
+  - url: assets/img/circuit_diagram.png
+    image_path: assets/img/circuit_diagram.png
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Syringe Pumps are a useful tool when dispensing liquids, especially in regard to accuracy when compared to a human hand. Their reliability and diversity have made them a staple in the medical industry, laboratories, and beyond. While basic applications can be done with a low-priced, one-speed pump with a specialized size syringe, pumps that can be adapted to various sizes and flow rates drastically increase in price when requiring these specifications. The goal of this design was to create an accurate, cost-effective, programmable pump that could effectively be introduced into a medical situation with ease. This includes adaptability to various sizes of syringe pumps and flow rates without the need for tools or alterations to the pump.
 
