@@ -29,7 +29,7 @@ gallery:
 
 ## Autodesk Fusion 360 Model
 #### (May take a couples seconds to load)
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e980c9d449578c6d1?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e12cd8210f025b9b8?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Start to Finish of creating the Microfluidic Device
   The first step of creating a microfluidic device is creating the mold in which the device will be cast. As mentioned in the description of the Geometries, the process of ensuring proper mixing of the liquids throughout the length of the device is not a trivial task. Proper steps should be taken to maximize the mixing done throughout the device and ensure no dead zones or overlapping occurs during the liquid run pattern. This is all developed through CAD modeling software, and when ready converted to a STL file. 
