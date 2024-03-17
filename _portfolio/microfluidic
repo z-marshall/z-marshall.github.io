@@ -12,13 +12,13 @@ gallery:
     alt: "picture of finished microfluidic device and mold"
 ---
 
-###What are microfluidics and why use them?
+### What are microfluidics and why use them?
   Microfluidic devices are devices that use a very small amount of some lab tests or operations. These devices are characterized by their small feature size and thus do not need the same volumes that are necessary for other devices. The device that I created was a microfluidic mixer, which has a variety of uses including DNA analysis, chemical synthesis and biosensor studies. For the example of DNA analysis, you may want to do an antibody test, but need to mix a certain liquid chemical with the small blood sample in order to get results. 
 
-####Challenges of microfludics
+#### Challenges of microfludics
   There are two primary challenges to creating a microfludic device. The first is due to the nature of these pieces being so small. Microfluid devices as easily broken and thus a proper care must be taken to ensure the dimensioned selected in the CAD model will be printable and viable for the device. Secondly, due to the narrowness of the pathways, the liquids often do not mix as they travel down the paths. With a standard straight path, these liquids are so thinned and in such close proximity that the laminar flow and surface tension to their own material and path keeps the liquids from mixing, even when traveling side by side. To get proper mixing, obstacles must be introduced to overcome the liquid's low Reynolds number that the chamber size and liquid properties are inducing.
 
-{% include gallery caption="Above are various pictures of the device and the cast, along with a video of the device operating." %}
+{% include gallery caption="Above are pictures of the device and the cast." %}
 
 
 ### Description of the Geometry
