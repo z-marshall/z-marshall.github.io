@@ -18,6 +18,14 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
     excerpt: "Designed a SLA printed Microfluidic mold to cast a functioning microfluidic device"
+      - image_path: assets/img/microfluidic_pic2.jpeg
+    alt: "Multimaterial Pliers"
+    title: "Multimaterial Pliers"
+    excerpt: "Design movable pliers using multiple materials"
+  - image_path: assets/img/microfluidic_pic2.jpeg
+    alt: "Bike Phone Holder"
+    title: "Bike Phone Holder"
+    excerpt: "Design an adjustable easily attached bike phone holder"
 #  - image_path: assets/img/Zidex-Thumbnail.jpg
 #    title: "Bespoke IDEX 3D Printer"
 #    excerpt: "Multimaterial printing. "
