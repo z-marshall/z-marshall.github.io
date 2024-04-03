@@ -18,7 +18,7 @@ feature_row:
     alt: "Microfluidic Device"
     title: "Microfluidic Device"
     excerpt: "Designed a SLA printed Microfluidic mold to cast a functioning microfluidic device"
-  - image_path: assets/img/microfluidic_pic2.jpeg
+  - image_path: assets/img/pliers_at_rest.jpg
     alt: "Multimaterial Pliers"
     title: "Multimaterial Pliers"
     excerpt: "Design movable pliers using multiple materials"
