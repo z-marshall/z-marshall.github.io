@@ -11,6 +11,7 @@ gallery:
     image_path: assets/img/pliers_holding_hairtie.jpg
     alt: "picture of finished pliers in use"
 ---
+{% include gallery caption="Finished MultiMaterial Pliers." %}
 
 ### What is a multmaterial extrusion project and why use multiextrusion?
 "Description of the project with a blurb about print-in-place parts. Perform external
