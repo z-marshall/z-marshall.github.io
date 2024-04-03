@@ -52,4 +52,4 @@ A great aspect of the SuperSlicer gcode creator is the ability to adjust infill 
 
 ## Video of Pliers in use
 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtube.com/shorts/qCgoobhTQss?si=LaFRNKMuuOhWzlO0)
+[![Multimaterial pliers working](assets/img/pliers_holding_hairtie.jpg)](https://youtube.com/shorts/qCgoobhTQss?si=LaFRNKMuuOhWzlO0)
