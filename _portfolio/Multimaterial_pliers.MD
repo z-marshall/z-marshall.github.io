@@ -45,8 +45,9 @@ First iteration pliers photos
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e71755eaf1d0103a4?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-### Print Settings and Specification
+### Print Settings and Plier Specification
 A great aspect of the SuperSlicer gcode creator is the ability to adjust infill densities and geometries in the SuperSlicer platform, rather than having to design it with particular infills and densities in the CAD model itself. This was utilized in this model for the flexible component, as the CAD model was a solid body, but in SuperSlicer, was adapted to have a grid infill of 25% density for best flexibility with the soft TPU material. All other infills and geometries were standard. 
+The pliers were designed to work for picking up a resistor, but also are capable of more. The jaws were designed to be 13mm in length, long enough to have enough surface area to pick up larger items, but not so large that they interfere with the flexible component or closure. To aid with smaller items, a small angle is noticed to allow for precision pick up at the tip, which does not affect picking up larger items. In addition, a larger cut out between the jaws was added to allow for the hooking of the pliers for added usefulness. Finally, since these were thick pliers to allow for the overlapping sections of the rigid and flexible components, the tips were diminished to a third of the thickness to allow for better precision as well.
 
   
 
