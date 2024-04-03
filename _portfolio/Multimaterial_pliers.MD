@@ -52,3 +52,5 @@ A great aspect of the SuperSlicer gcode creator is the ability to adjust infill 
 
 ## Video of Pliers in use
   <video src='https://youtube.com/shorts/qCgoobhTQss?feature=share' width=180/>
+
+[![microfluidic device video](https://www.youtube.com/shorts/qCgoobhTQss)](https://www.youtube.com/shorts/qCgoobhTQss "microfluidic operating video")
