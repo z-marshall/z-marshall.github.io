@@ -25,7 +25,8 @@ Often times the most useful combinations of materials are opposing mechanical pr
 One of the most useful applications of multimaterial printers and 3D printers, in general, is the ability to print in place. This means the part is preassembled and ready to go off the print bed. There are multiple uses of this including moveable joints and actuators. An example of this is a print-in-place spring-loaded box, which allows for these pieces to intertwine during printing, which would not have been possible to assembly with this model post printing (2). An extension of this is using multiple materials over multiple components. These components can be printed such that they are mechanically intertwined, which can dramatically increase mechanical strength at the seems, and allow for seamless integration between materials.
  
 
-(1)	https://blog.igus.eu/design-tips-multi-material-parts-from-the-3d-printer/ 
+(1)	https://blog.igus.eu/design-tips-multi-material-parts-from-the-3d-printer/
+
 (2) https://www.instructables.com/Print-in-Place-Spring-Loaded-Box/
 
 
