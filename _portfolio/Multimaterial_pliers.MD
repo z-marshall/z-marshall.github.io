@@ -14,9 +14,6 @@ gallery:
 {% include gallery caption="Finished MultiMaterial Pliers." %}
 
 ### What is a multmaterial extrusion project and why use multiextrusion?
-"Description of the project with a blurb about print-in-place parts. Perform external
-research to determine other applications print-in-place has been used. What
-combination of materials work well for print-in-place?"
 If we can think it, we’re going to want to be able to print it. But not everything that we think of is going to be made of one material, with one mechanical property and one simple component. Oftentimes, to create anything of use, there are multiple components with varying properties that all come and all coalesce to create something much more than their individual pieces. This project is no different, as a pair of pliers require moveable components that retain their shape after compression. 
 
 The goal of this project was to design and print needle nose pliers that had the utility and range of motion of standard pliers. This includes the ability to pick up things, close when pressure is applied, and return to their naturally open resting state after use.  With these requirements, we turn to a multimaterial part. In order to have secure jaws for holding and handles for gripping we need a rigid material like PLA. For a flexible pressure converting piece to allow for movable components when pressure is applied, we will be using 95A TPU flexible center. 
