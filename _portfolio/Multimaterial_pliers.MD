@@ -2,14 +2,14 @@
 title: "Multimaterial Pliers"
 excerpt: "Design movable pliers using multiple materials."
 header:
-  teaser: assets/img/microfluidic_pic2.jpeg
+  teaser: assets/img/pliers_at_rest.jpg
 gallery:
   - url: assets/img/pliers_at_rest.jpg
     image_path: assets/img/pliers_at_rest.jpg
-    alt: "picture of finished microfluidic device"
+    alt: "picture of finished, usable pliers"
   - url: assets/img/pliers_holding_hairtie.jpg
     image_path: assets/img/pliers_holding_hairtie.jpg
-    alt: "picture of finished, usable pliers"
+    alt: "picture of finished pliers in use"
 ---
 
 ### What is a multmaterial extrusion project and why use multiextrusion?
