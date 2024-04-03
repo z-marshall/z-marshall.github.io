@@ -2,7 +2,7 @@
 title: "Multimaterial Pliers"
 excerpt: "Design movable pliers using multiple materials."
 header:
-  teaser: /assets/img/pliers_at_rest.jpg
+  teaser: /assets/img/pliers_holding_hairtie.jpg
 gallery:
   - url: /assets/img/pliers_at_rest.jpg
     image_path: assets/img/pliers_at_rest.jpg
