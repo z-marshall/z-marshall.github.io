@@ -50,4 +50,4 @@ A great aspect of the SuperSlicer gcode creator is the ability to adjust infill 
   
 
 ## Video of Pliers in use
-  ![Book logo](/assets/img/video_pliers_working.MOV)
+  ![Pliers in use video](/assets/img/video_pliers_working.MOV)
