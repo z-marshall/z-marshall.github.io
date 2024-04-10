@@ -16,9 +16,9 @@ gallery:
 
 
 
-### Design and Material Selections
+### Design and Material Selections and Assembly Instructions
 
 
 ## Autodesk Fusion 360 Model
 #### (May take a couples seconds to load)
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec218038d1117cf44?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e009e584b4aab6c35?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
