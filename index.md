@@ -22,7 +22,7 @@ feature_row:
     alt: "Multimaterial Pliers"
     title: "Multimaterial Pliers"
     excerpt: "Design movable pliers using multiple materials"
-  - image_path: assets/img/microfluidic_pic2.jpeg
+  - image_path: assets/img/image 1-rightsideup.jpg
     alt: "Bike Phone Holder"
     title: "Bike Phone Holder"
     excerpt: "Design an adjustable easily attached bike phone holder"
