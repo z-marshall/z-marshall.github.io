@@ -2,14 +2,20 @@
 title: "Bike Phone Holder"
 excerpt: "Design an adjustable easily attached bike phone holder"
 header:
-  teaser: assets/img/microfluidic_pic2.jpeg
+  teaser: assets/img/image 1-rightsideup.jpg
 gallery:
-  - url: assets/img/microfluidic_pic2.jpeg
-    image_path: assets/img/microfluidic_pic2.jpeg
-    alt: "picture of finished microfluidic device"
-  - url: assets/img/microfluidic_mold_and_device.jpeg
-    image_path: assets/img/microfluidic_mold_and_device.jpeg
-    alt: "picture of finished microfluidic device and mold"
+  - url: assets/img/image 1-rightsideup.jpg
+    image_path: assets/img/image 1-rightsideup.jpg
+    alt: "picture of attached phone holder"
+  - url: assets/img/image 2- sideview.jpg
+    image_path: assets/img/image 2- sideview.jpg
+    alt: "picture of side view of phone holder"
+  - url: assets/img/image 4-sideways.jpg
+    image_path: assets/img/image 4-sideways.jpg
+    alt: "picture of attached phone holder - second configuration"
+  - url: assets/img/image 3-sideways.jpg
+    image_path: assets/img/image 3-sideways.jpg
+    alt: "picture of side view of phone holder -second configuration"
 ---
 
 ### What is Top Down Modeling? How does one create a top down modelled assembly?
