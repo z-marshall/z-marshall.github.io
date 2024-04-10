@@ -18,6 +18,8 @@ gallery:
     alt: "picture of side view of phone holder -second configuration"
 ---
 
+{% include gallery caption="Above is a pictures of phone holder attached and holding a phone from multiple angles and in both configurations." %}
+
 ### What is Top Down Modeling? How does one create a top down modelled assembly?
 
 
