@@ -2,16 +2,16 @@
 title: "Generative Design Skateboard Truck"
 excerpt: "Utalized Fusion 360 Generative Design software to create an weight and strength optimize skateboard truck"
 header:
-  teaser: /assets/img/pliers_holding_hairtie.jpg
+  teaser: assets/img/CAD powder print trucks.png
 gallery:
-  - url: /assets/img/pliers_at_rest.jpg
-    image_path: assets/img/pliers_at_rest.jpg
-    alt: "picture of finished, usable pliers"
+  - url: assets/img/CAD powder print trucks.png
+    image_path: assets/img/CAD powder print trucks.png
+    alt: "picture of generative design CAD powder print trucks"
   - url: /assets/img/pliers_holding_hairtie.jpg
     image_path: assets/img/pliers_holding_hairtie.jpg
     alt: "picture of finished pliers in use"
 ---
-{% include gallery caption="pSLS printed Skateboard truck" %}
+{% include gallery caption="Generative Design Skateboard truck" %}
 
 ### What is Generative Design and the benefits of pSLS
 Generative design is a modeling optimization tool that specializes in making complex geometries for the most efficient and lightweight part of a given application. It's often difficult to estimate how the part will withstand its various applications, so the ability to incorporate its use into the design process is unique and a valuable aspect of the generative design process. The design can, in real-time, adjust to expected forces and add/subtract material based on its live-use predictions, which can save money, time, and materials by not having to print multiple iterations of the device and do repeated failure testing.
