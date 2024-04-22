@@ -1,6 +1,6 @@
 ---
 title: "3D printed Pickleball Paddle"
-excerpt: "Designed a regulation grade Filiment printed pickleball paddle"
+excerpt: "Designed a regulation grade Filament printed pickleball paddle"
 header:
   teaser: assets/img/CAD_pickleball_paddle.png
 gallery:
@@ -10,7 +10,6 @@ gallery:
 
 ---
 
-{% include gallery caption="Above is a pictures of phone holder attached and holding a phone from multiple angles and in both configurations." %}
 
 
 ## Autodesk Fusion 360 Model
