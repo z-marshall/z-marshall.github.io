@@ -1,6 +1,6 @@
 ---
 title: "Generative Design Skateboard Truck"
-excerpt: "Utalized Fusion 360 Generative Design software to create an weight and strength optimize skateboard truck"
+excerpt: "Utilized Fusion 360 Generative Design software to create an weight and strength optimize skateboard truck"
 header:
   teaser: assets/img/CAD powder print trucks.png
 gallery:
