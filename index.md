@@ -26,7 +26,11 @@ feature_row:
     alt: "Bike Phone Holder"
     title: "Bike Phone Holder"
     excerpt: "Design an adjustable easily attached bike phone holder"
-#  - image_path: assets/img/Zidex-Thumbnail.jpg
+  - image_path: assets/img/image 1-rightsideup.jpg
+    alt: "Generative Design Skateboard Truck"
+    title: "Generative Design Skateboard Truck"
+    excerpt: "Utilized Fusion 360 Generative Design software to create an weight and strength optimize skateboard truck"
+#  - image_path: assets/img/CAD powder print trucks.png
 #    title: "Bespoke IDEX 3D Printer"
 #    excerpt: "Multimaterial printing. "
 ---
