@@ -30,6 +30,11 @@ feature_row:
     alt: "Generative Design Skateboard Truck"
     title: "Generative Design Skateboard Truck"
     excerpt: "Utilized Fusion 360 Generative Design software to create an weight and strength optimize skateboard truck"
+  - image_path: assets/img/CAD_pickleball_paddle.png
+    alt: "Pickleball Paddle"
+    title: "Pickleball Paddle"
+    excerpt: "Designed a regulation grade Filiment printed pickleball paddle"
+
 #  - image_path: assets/img/CAD powder print trucks.png
 #    title: "Bespoke IDEX 3D Printer"
 #    excerpt: "Multimaterial printing. "
