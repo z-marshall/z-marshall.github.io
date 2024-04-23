@@ -27,11 +27,13 @@ Generative design is a modeling optimization tool that specializes in making com
 
 These geometries can be very intricate with difficult overhangs, curves, and edges that can't be conserved with other types of printing. This print was made using pSLS (powder selective laser sintering) 3D printing technology. Powder printing uses layer-by-layer fusing of fine powder pieces to create parts without the need for adherent support materials or limited complexity. This allows for excellent resolution and allows for the intricacy of the design to be maintained. In addition, the uniformity of the powder print allows for predictable part properties that ensure uniform part density and strength throughout the part. This ensures our prints correlate well with the predicted mechanical properties of the generative design as opposed to a filament-printed design which has drastically different mechanical properties based on how the forces are applied (between layers melting adhesion forces which is a weak plane vs along the strong plane where the plastic monomer chains take the force).
 
-## Autodesk Fusion 360 Model
+## Autodesk Fusion 360 Model- Generative design of powder printed Nylon 12 (FormLabs) skateboard truck
 #### (May take a couples seconds to load)
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6edb509cd53aceeedb?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-Generative design of powder printed Nylon 12 (FormLabs) skateboard truck
+## Autodesk Fusion 360 Model- Generative design of powder printed Nylon 12 (FormLabs) skateboard truck in assembly
+#### (May take a couples seconds to load)
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6efbb6dcc9e593e43d?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Drawbacks
 One of the drawbacks of generative design is the significant time it takes to create all the obstacle geometries, forces, and specifications necessary for the generative design to properly create the intended geometry. Generative Design is excellent at finding the one area that you meant to restrict, or slightly over-extrude into an obstacle geometry, so it is a significant learning curve of anticipating what the software will create, and adjusting your design accordingly. To ensure the generative outcome is what you are envisioning, multiple iterations are necessary which contributes to its significant time requirement. A study can anywhere from 1-12 hours to complete with extended time for extremely intricate designs and multiple manufacturing requirements or design type. 
@@ -46,9 +48,9 @@ Though it takes a significant amount of work, time, and detail to ensure a model
 Automotive is another sphere where weight and strength are valuable. The more mass, the more force is required to obtain the same acceleration. This is critical for spheres like F1, NASCAR, and Supercross. But more important than minimized mass for speed and acceleration, is the safety of the driver. These components need to be strong in order to allow the driver to survive crashes at these high-speed events. This can be factored into the design with proper force attribution to simulate some of the forces of an impact. Finally, in both of these industries, these parts are extremely expensive to manufacture. Many of these parts are custom and could be thousands to hundreds of thousands of dollars to manufacture one iteration. This is not something you can manufacture multiple times so every small detail must be attributed to the first iteration, and generative design is a great way to ensure that everything gets accounted for.
 
 
-## Autodesk Fusion 360 Model
+## Autodesk Fusion 360 Model- Generative design of Aluminum AlSi10Mg skateboard truck
 #### (May take a couples seconds to load)
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6d3acaaba43fa452?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-Generative design of Aluminum AlSi10Mg skateboard truck
+
 
