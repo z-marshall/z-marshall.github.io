@@ -36,5 +36,6 @@ The plastic we printed with was PLA which is a rigid non-compressible material t
 Additional Images of paddle
 ![Book logo](/assets/img/holding paddle.png)
 Holding Printed Paddle
-![Book logo]/(assets/img/paddle comparison.png)
+
+![Book logo](/assets/img/paddle comparison.png)
 Printed vs bought paddle comparison
