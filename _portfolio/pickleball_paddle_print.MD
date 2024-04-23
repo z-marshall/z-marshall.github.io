@@ -12,6 +12,8 @@ gallery:
     alt: "Printed pickleball Paddle"
 ---
 
+{% include gallery caption="CAD rendering and picture of printed Paddle." %}
+
 
 Pickleball has taken the country by storm as the new craze due to easy accessibility for all ages and skill levels. The only thing you need is a paddle, a ball, an old tennis court (because who plays that anymore), and some people to play with. Most of these can be found at your local park, but it's always BYOP (bring your own paddle). With any new craze, manufacturers are creating hundreds of varieties of pickleball paddles with various features and buzzwords like "carbon fiber infused" and "lightweight" paddles that increase prices. So what we wanted to understand was what you truly need to have a functioning pickleball paddle. And it was a lot simpler than these manufacturers want you to know with their $40-$400 paddles.
 
