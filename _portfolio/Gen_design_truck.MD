@@ -16,8 +16,8 @@ gallery:
   - url: assets/img/on skateboard pic 1.png
     image_path: assets/img/on skateboard pic 1.png
     alt: "picture of printed truck on skateboard"
-  - url: assets/img/on skateboard pic 2.png
-    image_path: assets/img/on skateboard pic 2.png
+  - url: assets/img/on skateboard pic 3.png
+    image_path: assets/img/on skateboard pic 3.png
     alt: "picture of printed truck on skateboard view 2"
 ---
 {% include gallery caption="Generative Design Skateboard truck" %}
