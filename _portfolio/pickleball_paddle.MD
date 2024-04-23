@@ -31,6 +31,7 @@ The plastic we printed with was PLA which is a rigid non-compressible material t
 #### (May take a couples seconds to load)
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0f12d749733940cd?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+Additional Images of paddle
 ![Book logo](/assets/img/holding paddle.png)
 Holding Printed Paddle
 ![Book logo]/(assets/img/paddle comparison.png)
