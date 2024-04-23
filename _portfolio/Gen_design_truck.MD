@@ -6,10 +6,19 @@ header:
 gallery:
   - url: assets/img/CAD powder print trucks.png
     image_path: assets/img/CAD powder print trucks.png
-    alt: "picture of generative design CAD powder print trucks"
-  - url: /assets/img/pliers_holding_hairtie.jpg
-    image_path: assets/img/pliers_holding_hairtie.jpg
-    alt: "picture of finished pliers in use"
+    alt: "picture of generative design CAD powder print truck"
+  - url: assets/img/assembly img 1.png
+    image_path: assets/img/assembly img 1.png
+    alt: "picture of truck on assembly view 1"
+  - url: assets/img/assembly img 2.png
+    image_path: assets/img/assembly img 2.png
+    alt: "picture of truck on assembly view 2"
+  - url: assets/img/on skateboard pic 1.png
+    image_path: assets/img/on skateboard pic 1.png
+    alt: "picture of printed truck on skateboard"
+  - url: assets/img/on skateboard pic 2.png
+    image_path: assets/img/on skateboard pic 2.png
+    alt: "picture of printed truck on skateboard view 2"
 ---
 {% include gallery caption="Generative Design Skateboard truck" %}
 
